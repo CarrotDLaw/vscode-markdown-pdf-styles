@@ -1,0 +1,23 @@
+/* main font "LXGW WenKai TC" */
+
+body {
+  font-family: "LXGW WenKai TC", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+code,
+kbd,
+pre {
+  font-family: "Courier Prime Code", monospace;
+}
+
+input {
+  font-family: inherit;
+}
+
+code {
+  font-family: "Courier Prime Code", monospace;
+}
+
+pre {
+  font-family: "Courier Prime Code", monospace;
+}
