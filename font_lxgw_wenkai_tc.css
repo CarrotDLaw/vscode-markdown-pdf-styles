@@ -15,10 +15,6 @@ input {
   font-family: inherit;
 }
 
-code {
-  font-family: "Courier Prime Code", monospace;
-}
-
-pre {
-  font-family: "Courier Prime Code", monospace;
+blockquote {
+  font-family: "Source Serif 4 SmText", "Advocate Ancient Serif";
 }

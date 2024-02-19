@@ -8,6 +8,6 @@ This project is licensed under the [MIT Licence](./LICENSE).
 
 ## Acknowledgement
 
-- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
-- [vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf)
-- [vscode-markdown-style](https://github.com/sindresorhus/github-markdown-css)
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
+- [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf)
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
