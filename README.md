@@ -10,4 +10,3 @@ This project is licensed under the [MIT Licence](./LICENSE).
 
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf)
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
